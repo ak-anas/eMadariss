@@ -13,7 +13,7 @@ load_dotenv()
 browser = Browser.get_browser_name()
 
 def browser_to_use(browser):
-    if browser == "Firefox":
+    if browser == "AppXycpy9mb5aa9x31qd69xmfqbdxkq7ra6z":
         options = webdriver.FirefoxOptions()
         options.add_argument("--headless")
 
